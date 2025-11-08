@@ -1,7 +1,7 @@
-Game made for <a href="https://itch.io/jam/pirate17"> Brackeys Game Jam 2025.1 </a><br>
-play the game at - <a href="https://lineartundra534.itch.io/alone"> Easy Adventure </a>
+Game made for <a href="https://itch.io/jam/pirate17"> Pirate Jam 17 </a><br>
+play the game at - <a href="https://lineartundra534.itch.io/alone"> Alone! </a>
 
-A 2D top-down arena shooter prototype inspired by Brotato and Minecraft. Players fight endless enemy waves using swappable weapons. Built for a game jam to test core gameplay mechanics.
+A 2D platformer prototype featuring three short levels focused on movement and level design testing. Built as an early experiment in platforming mechanics.
 
 <br>
 Features
